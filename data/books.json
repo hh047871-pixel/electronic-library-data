@@ -1,32 +1,106 @@
-[
-  {
-    "id": "1",
-    "title": "مدخل إلى تطوير التطبيقات",
-    "author": "أحمد علي",
-    "presenter": "مكتبة المعرفة",
-    "price": 12.5,
-    "pages": 220,
-    "description": "كتاب يشرح أساسيات تطوير التطبيقات بشكل مبسط للمبتدئين.",
-    "category": "تقنية",
-    "coverUrl": "https://example.com/covers/book1.jpg",
-    "bookUrl": "https://example.com/books/book1.pdf",
-    "createdAt": "2026-02-20T10:00:00Z",
-    "isNew": true,
-    "isFeatured": true
-  },
-  {
-    "id": "2",
-    "title": "فن إدارة الوقت",
-    "author": "سارة محمد",
-    "presenter": "دار الإبداع",
-    "price": 8.0,
-    "pages": 150,
-    "description": "كتاب عملي يساعدك على تنظيم الوقت وزيادة الإنتاجية.",
-    "category": "تطوير ذات",
-    "coverUrl": "https://example.com/covers/book2.jpg",
-    "bookUrl": "https://example.com/books/book2.pdf",
-    "createdAt": "2026-02-18T08:30:00Z",
-    "isNew": true,
-    "isFeatured": false
-  }
-]
+{
+  "categories": [
+    {
+      "id": "fiqh",
+      "name": "فقهي",
+      "books": [
+        {
+          "id": "b1",
+          "title": "أحكام الطهارة",
+          "author": "الشيخ محمد",
+          "presenter": "مكتبة أهل المعرفة",
+          "price": 10.0,
+          "pages": 180,
+          "description": "كتاب مبسط يشرح أحكام الطهارة والوضوء والغسل بأسلوب واضح.",
+          "coverUrl": "https://raw.githubusercontent.com/hh047871-pixel/electronic-library-data/main/covers/ahkam_altahara.jpg",
+          "bookUrl": "https://raw.githubusercontent.com/hh047871-pixel/electronic-library-data/main/books/ahkam_altahara.pdf",
+          "createdAt": "2026-02-21T10:00:00Z",
+          "isNew": true,
+          "isFeatured": true
+        },
+        {
+          "id": "b4",
+          "title": "أحكام الصلاة",
+          "author": "الشيخ حسن",
+          "presenter": "دار الفقه الإسلامي",
+          "price": 11.5,
+          "pages": 240,
+          "description": "كتاب يشرح أحكام الصلاة وشروطها ومبطلاتها بطريقة منظمة.",
+          "coverUrl": "https://raw.githubusercontent.com/hh047871-pixel/electronic-library-data/main/covers/ahkam_alsalah.jpg",
+          "bookUrl": "https://raw.githubusercontent.com/hh047871-pixel/electronic-library-data/main/books/ahkam_alsalah.pdf",
+          "createdAt": "2026-02-19T09:00:00Z",
+          "isNew": true,
+          "isFeatured": false
+        }
+      ]
+    },
+    {
+      "id": "kids",
+      "name": "أطفال",
+      "books": [
+        {
+          "id": "b2",
+          "title": "قصص للأطفال",
+          "author": "سارة أحمد",
+          "presenter": "دار البراعم",
+          "price": 7.5,
+          "pages": 95,
+          "description": "مجموعة قصص تربوية للأطفال بأسلوب ممتع وصور توضيحية.",
+          "coverUrl": "https://raw.githubusercontent.com/hh047871-pixel/electronic-library-data/main/covers/kids_stories.jpg",
+          "bookUrl": "https://raw.githubusercontent.com/hh047871-pixel/electronic-library-data/main/books/kids_stories.pdf",
+          "createdAt": "2026-02-20T08:30:00Z",
+          "isNew": true,
+          "isFeatured": false
+        },
+        {
+          "id": "b5",
+          "title": "تعلم الحروف",
+          "author": "نور علي",
+          "presenter": "مكتبة الطفل الذكي",
+          "price": 6.0,
+          "pages": 60,
+          "description": "كتاب تعليمي للأطفال لتعلم الحروف العربية بطريقة سهلة ومسلية.",
+          "coverUrl": "https://raw.githubusercontent.com/hh047871-pixel/electronic-library-data/main/covers/learn_letters.jpg",
+          "bookUrl": "https://raw.githubusercontent.com/hh047871-pixel/electronic-library-data/main/books/learn_letters.pdf",
+          "createdAt": "2026-02-17T11:15:00Z",
+          "isNew": false,
+          "isFeatured": true
+        }
+      ]
+    },
+    {
+      "id": "secular",
+      "name": "علماني",
+      "books": [
+        {
+          "id": "b3",
+          "title": "مقدمة في التفكير العلمي",
+          "author": "علي كريم",
+          "presenter": "دار المعرفة الحديثة",
+          "price": 12.0,
+          "pages": 210,
+          "description": "كتاب يقدم مبادئ التفكير العلمي والتحليل بطريقة مناسبة للمبتدئين.",
+          "coverUrl": "https://raw.githubusercontent.com/hh047871-pixel/electronic-library-data/main/covers/scientific_thinking.jpg",
+          "bookUrl": "https://raw.githubusercontent.com/hh047871-pixel/electronic-library-data/main/books/scientific_thinking.pdf",
+          "createdAt": "2026-02-18T07:00:00Z",
+          "isNew": false,
+          "isFeatured": true
+        },
+        {
+          "id": "b6",
+          "title": "مدخل إلى علم الاجتماع",
+          "author": "كريم جاسم",
+          "presenter": "دار الدراسات المعاصرة",
+          "price": 13.0,
+          "pages": 260,
+          "description": "كتاب تمهيدي يعرّف بأساسيات علم الاجتماع ومفاهيمه الرئيسية.",
+          "coverUrl": "https://raw.githubusercontent.com/hh047871-pixel/electronic-library-data/main/covers/sociology_intro.jpg",
+          "bookUrl": "https://raw.githubusercontent.com/hh047871-pixel/electronic-library-data/main/books/sociology_intro.pdf",
+          "createdAt": "2026-02-16T06:45:00Z",
+          "isNew": false,
+          "isFeatured": false
+        }
+      ]
+    }
+  ]
+}

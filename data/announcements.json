@@ -2,21 +2,41 @@
   {
     "id": "a1",
     "title": "مهرجان القراءة السنوي",
-    "description": "انطلاق مهرجان القراءة مع عروض خاصة على مجموعة من الكتب.",
-    "imageUrl": "https://example.com/banners/festival.jpg",
+    "description": "انطلاق مهرجان القراءة السنوي مع فعاليات ثقافية وعروض خاصة على مجموعة من الكتب.",
+    "imageUrl": "https://raw.githubusercontent.com/hh047871-pixel/electronic-library-data/main/covers/banner_reading_festival.jpg",
     "type": "مهرجان",
-    "link": "https://example.com/events/festival",
-    "createdAt": "2026-02-19T12:00:00Z",
+    "link": "https://example.com/reading-festival",
+    "createdAt": "2026-02-21T09:00:00Z",
     "isActive": true
   },
   {
     "id": "a2",
-    "title": "إطلاق مشروع مكتبة المجتمع",
-    "description": "مشروع جديد لدعم القراء وتوفير محتوى نوعي بشكل مستمر.",
-    "imageUrl": "https://example.com/banners/project.jpg",
-    "type": "مشروع",
-    "link": "https://example.com/projects/community-library",
-    "createdAt": "2026-02-17T09:15:00Z",
+    "title": "عرض نهاية الأسبوع",
+    "description": "خصومات خاصة على الكتب المختارة لمدة 3 أيام فقط.",
+    "imageUrl": "https://raw.githubusercontent.com/hh047871-pixel/electronic-library-data/main/covers/banner_weekend_offer.jpg",
+    "type": "عرض",
+    "link": "https://example.com/weekend-offer",
+    "createdAt": "2026-02-20T12:30:00Z",
     "isActive": true
+  },
+  {
+    "id": "a3",
+    "title": "إطلاق مشروع مكتبة المجتمع",
+    "description": "إعلان إطلاق مشروع جديد لدعم القراءة وتوفير محتوى ثقافي متنوع.",
+    "imageUrl": "https://raw.githubusercontent.com/hh047871-pixel/electronic-library-data/main/covers/banner_community_project.jpg",
+    "type": "مشروع",
+    "link": "https://example.com/community-library",
+    "createdAt": "2026-02-18T08:15:00Z",
+    "isActive": true
+  },
+  {
+    "id": "a4",
+    "title": "تنويه تحديث التطبيق",
+    "description": "سيتم إضافة أقسام جديدة وتحسين البحث خلال التحديث القادم.",
+    "imageUrl": "https://raw.githubusercontent.com/hh047871-pixel/electronic-library-data/main/covers/banner_update_notice.jpg",
+    "type": "تنويه",
+    "link": "",
+    "createdAt": "2026-02-17T10:45:00Z",
+    "isActive": false
   }
 ]
