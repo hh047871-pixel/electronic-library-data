@@ -1,0 +1,32 @@
+[
+  {
+    "id": "1",
+    "title": "مدخل إلى تطوير التطبيقات",
+    "author": "أحمد علي",
+    "presenter": "مكتبة المعرفة",
+    "price": 12.5,
+    "pages": 220,
+    "description": "كتاب يشرح أساسيات تطوير التطبيقات بشكل مبسط للمبتدئين.",
+    "category": "تقنية",
+    "coverUrl": "https://example.com/covers/book1.jpg",
+    "bookUrl": "https://example.com/books/book1.pdf",
+    "createdAt": "2026-02-20T10:00:00Z",
+    "isNew": true,
+    "isFeatured": true
+  },
+  {
+    "id": "2",
+    "title": "فن إدارة الوقت",
+    "author": "سارة محمد",
+    "presenter": "دار الإبداع",
+    "price": 8.0,
+    "pages": 150,
+    "description": "كتاب عملي يساعدك على تنظيم الوقت وزيادة الإنتاجية.",
+    "category": "تطوير ذات",
+    "coverUrl": "https://example.com/covers/book2.jpg",
+    "bookUrl": "https://example.com/books/book2.pdf",
+    "createdAt": "2026-02-18T08:30:00Z",
+    "isNew": true,
+    "isFeatured": false
+  }
+]

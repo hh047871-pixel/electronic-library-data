@@ -1,0 +1,22 @@
+[
+  {
+    "id": "a1",
+    "title": "مهرجان القراءة السنوي",
+    "description": "انطلاق مهرجان القراءة مع عروض خاصة على مجموعة من الكتب.",
+    "imageUrl": "https://example.com/banners/festival.jpg",
+    "type": "مهرجان",
+    "link": "https://example.com/events/festival",
+    "createdAt": "2026-02-19T12:00:00Z",
+    "isActive": true
+  },
+  {
+    "id": "a2",
+    "title": "إطلاق مشروع مكتبة المجتمع",
+    "description": "مشروع جديد لدعم القراء وتوفير محتوى نوعي بشكل مستمر.",
+    "imageUrl": "https://example.com/banners/project.jpg",
+    "type": "مشروع",
+    "link": "https://example.com/projects/community-library",
+    "createdAt": "2026-02-17T09:15:00Z",
+    "isActive": true
+  }
+]
