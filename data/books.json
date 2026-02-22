@@ -5,31 +5,93 @@
       "name": "فقهي",
       "books": [
         {
-          "id": "b1",
-          "title": "أحكام الطهارة",
-          "author": "الشيخ محمد",
-          "presenter": "مكتبة أهل المعرفة",
-          "price": 10.0,
+          "id": "fiqh_001",
+          "title": "أحكام الطهارة والصلاة",
+          "author": "عبد الله الكعبي",
+          "presenter": "دار الإسلام",
+          "description": "كتاب مبسط يشرح أحكام الطهارة والصلاة بأسلوب واضح وميسر.",
           "pages": 180,
-          "description": "كتاب مبسط يشرح أحكام الطهارة والوضوء والغسل بأسلوب واضح.",
-          "coverUrl": "https://raw.githubusercontent.com/hh047871-pixel/electronic-library-data/main/covers/ahkam_altahara.jpg",
-          "bookUrl": "https://raw.githubusercontent.com/hh047871-pixel/electronic-library-data/main/books/ahkam_altahara.pdf",
-          "createdAt": "2026-02-21T10:00:00Z",
-          "isNew": true,
+          "price": 10000,
+          "coverUrl": "https://raw.githubusercontent.com/hh047871-pixel/electronic-library-data/main/covers/fiqh_001.jpg",
+          "pdfUrl": "https://raw.githubusercontent.com/hh047871-pixel/electronic-library-data/main/books/fiqh_001.pdf",
+          "createdAt": "2026-02-22T09:00:00Z",
           "isFeatured": true
         },
         {
-          "id": "b4",
-          "title": "أحكام الصلاة",
-          "author": "الشيخ حسن",
-          "presenter": "دار الفقه الإسلامي",
-          "price": 11.5,
+          "id": "fiqh_002",
+          "title": "فقه المعاملات",
+          "author": "حسن الراوي",
+          "presenter": "دار الإسلام",
+          "description": "يتناول أهم أبواب المعاملات المالية المعاصرة بأسلوب عملي.",
           "pages": 240,
-          "description": "كتاب يشرح أحكام الصلاة وشروطها ومبطلاتها بطريقة منظمة.",
-          "coverUrl": "https://raw.githubusercontent.com/hh047871-pixel/electronic-library-data/main/covers/ahkam_alsalah.jpg",
-          "bookUrl": "https://raw.githubusercontent.com/hh047871-pixel/electronic-library-data/main/books/ahkam_alsalah.pdf",
-          "createdAt": "2026-02-19T09:00:00Z",
-          "isNew": true,
+          "price": 12000,
+          "coverUrl": "https://raw.githubusercontent.com/hh047871-pixel/electronic-library-data/main/covers/fiqh_002.jpg",
+          "pdfUrl": "https://raw.githubusercontent.com/hh047871-pixel/electronic-library-data/main/books/fiqh_002.pdf",
+          "createdAt": "2026-02-20T10:30:00Z",
+          "isFeatured": false
+        }
+      ]
+    },
+    {
+      "id": "aqeedah",
+      "name": "عقيدة",
+      "books": [
+        {
+          "id": "aqeedah_001",
+          "title": "أصول العقيدة الإسلامية",
+          "author": "محمود السامرائي",
+          "presenter": "دار الإسلام",
+          "description": "مدخل واضح لأهم مسائل العقيدة مع تبسيط للمفاهيم الأساسية.",
+          "pages": 210,
+          "price": 11000,
+          "coverUrl": "https://raw.githubusercontent.com/hh047871-pixel/electronic-library-data/main/covers/aqeedah_001.jpg",
+          "pdfUrl": "https://raw.githubusercontent.com/hh047871-pixel/electronic-library-data/main/books/aqeedah_001.pdf",
+          "createdAt": "2026-02-19T08:15:00Z",
+          "isFeatured": true
+        },
+        {
+          "id": "aqeedah_002",
+          "title": "شرح مسائل الإيمان",
+          "author": "أحمد الربيعي",
+          "presenter": "دار الإسلام",
+          "description": "شرح مبسط لمسائل الإيمان وأثرها في حياة المسلم.",
+          "pages": 165,
+          "price": 9000,
+          "coverUrl": "https://raw.githubusercontent.com/hh047871-pixel/electronic-library-data/main/covers/aqeedah_002.jpg",
+          "pdfUrl": "https://raw.githubusercontent.com/hh047871-pixel/electronic-library-data/main/books/aqeedah_002.pdf",
+          "createdAt": "2026-02-17T11:00:00Z",
+          "isFeatured": false
+        }
+      ]
+    },
+    {
+      "id": "history",
+      "name": "تاريخ",
+      "books": [
+        {
+          "id": "history_001",
+          "title": "محطات من التاريخ الإسلامي",
+          "author": "علي التميمي",
+          "presenter": "دار الإسلام",
+          "description": "عرض لأهم الأحداث التاريخية بأسلوب مختصر وممتع.",
+          "pages": 300,
+          "price": 15000,
+          "coverUrl": "https://raw.githubusercontent.com/hh047871-pixel/electronic-library-data/main/covers/history_001.jpg",
+          "pdfUrl": "https://raw.githubusercontent.com/hh047871-pixel/electronic-library-data/main/books/history_001.pdf",
+          "createdAt": "2026-02-21T13:45:00Z",
+          "isFeatured": true
+        },
+        {
+          "id": "history_002",
+          "title": "سير العلماء",
+          "author": "سعد الجبوري",
+          "presenter": "دار الإسلام",
+          "description": "نبذة عن حياة مجموعة من العلماء وأثرهم العلمي.",
+          "pages": 190,
+          "price": 10000,
+          "coverUrl": "https://raw.githubusercontent.com/hh047871-pixel/electronic-library-data/main/covers/history_002.jpg",
+          "pdfUrl": "https://raw.githubusercontent.com/hh047871-pixel/electronic-library-data/main/books/history_002.pdf",
+          "createdAt": "2026-02-16T07:20:00Z",
           "isFeatured": false
         }
       ]
@@ -39,65 +101,29 @@
       "name": "أطفال",
       "books": [
         {
-          "id": "b2",
-          "title": "قصص للأطفال",
-          "author": "سارة أحمد",
-          "presenter": "دار البراعم",
-          "price": 7.5,
+          "id": "kids_001",
+          "title": "قصص الأنبياء للصغار",
+          "author": "نور الهدى",
+          "presenter": "دار الإسلام",
+          "description": "قصص مبسطة وجميلة للأطفال مع أسلوب سهل ومفيد.",
           "pages": 95,
-          "description": "مجموعة قصص تربوية للأطفال بأسلوب ممتع وصور توضيحية.",
-          "coverUrl": "https://raw.githubusercontent.com/hh047871-pixel/electronic-library-data/main/covers/kids_stories.jpg",
-          "bookUrl": "https://raw.githubusercontent.com/hh047871-pixel/electronic-library-data/main/books/kids_stories.pdf",
-          "createdAt": "2026-02-20T08:30:00Z",
-          "isNew": true,
-          "isFeatured": false
-        },
-        {
-          "id": "b5",
-          "title": "تعلم الحروف",
-          "author": "نور علي",
-          "presenter": "مكتبة الطفل الذكي",
-          "price": 6.0,
-          "pages": 60,
-          "description": "كتاب تعليمي للأطفال لتعلم الحروف العربية بطريقة سهلة ومسلية.",
-          "coverUrl": "https://raw.githubusercontent.com/hh047871-pixel/electronic-library-data/main/covers/learn_letters.jpg",
-          "bookUrl": "https://raw.githubusercontent.com/hh047871-pixel/electronic-library-data/main/books/learn_letters.pdf",
-          "createdAt": "2026-02-17T11:15:00Z",
-          "isNew": false,
-          "isFeatured": true
-        }
-      ]
-    },
-    {
-      "id": "secular",
-      "name": "علماني",
-      "books": [
-        {
-          "id": "b3",
-          "title": "مقدمة في التفكير العلمي",
-          "author": "علي كريم",
-          "presenter": "دار المعرفة الحديثة",
-          "price": 12.0,
-          "pages": 210,
-          "description": "كتاب يقدم مبادئ التفكير العلمي والتحليل بطريقة مناسبة للمبتدئين.",
-          "coverUrl": "https://raw.githubusercontent.com/hh047871-pixel/electronic-library-data/main/covers/scientific_thinking.jpg",
-          "bookUrl": "https://raw.githubusercontent.com/hh047871-pixel/electronic-library-data/main/books/scientific_thinking.pdf",
-          "createdAt": "2026-02-18T07:00:00Z",
-          "isNew": false,
+          "price": 7000,
+          "coverUrl": "https://raw.githubusercontent.com/hh047871-pixel/electronic-library-data/main/covers/kids_001.jpg",
+          "pdfUrl": "https://raw.githubusercontent.com/hh047871-pixel/electronic-library-data/main/books/kids_001.pdf",
+          "createdAt": "2026-02-18T15:10:00Z",
           "isFeatured": true
         },
         {
-          "id": "b6",
-          "title": "مدخل إلى علم الاجتماع",
-          "author": "كريم جاسم",
-          "presenter": "دار الدراسات المعاصرة",
-          "price": 13.0,
-          "pages": 260,
-          "description": "كتاب تمهيدي يعرّف بأساسيات علم الاجتماع ومفاهيمه الرئيسية.",
-          "coverUrl": "https://raw.githubusercontent.com/hh047871-pixel/electronic-library-data/main/covers/sociology_intro.jpg",
-          "bookUrl": "https://raw.githubusercontent.com/hh047871-pixel/electronic-library-data/main/books/sociology_intro.pdf",
-          "createdAt": "2026-02-16T06:45:00Z",
-          "isNew": false,
+          "id": "kids_002",
+          "title": "آداب المسلم الصغير",
+          "author": "أمينة الحمداني",
+          "presenter": "دار الإسلام",
+          "description": "كتاب تربوي للأطفال يعلّم السلوكيات والآداب الإسلامية.",
+          "pages": 80,
+          "price": 6000,
+          "coverUrl": "https://raw.githubusercontent.com/hh047871-pixel/electronic-library-data/main/covers/kids_002.jpg",
+          "pdfUrl": "https://raw.githubusercontent.com/hh047871-pixel/electronic-library-data/main/books/kids_002.pdf",
+          "createdAt": "2026-02-15T09:40:00Z",
           "isFeatured": false
         }
       ]
