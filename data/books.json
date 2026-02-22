@@ -44,7 +44,7 @@
           "description": "مدخل واضح لأهم مسائل العقيدة مع تبسيط للمفاهيم الأساسية.",
           "pages": 210,
           "price": 11000,
-          "coverUrl": "https://raw.githubusercontent.com/hh047871-pixel/electronic-library-data/main/covers/aqeedah_001.jpg",
+          "coverUrl": "https://raw.githubusercontent.com/hh047871-pixel/electronic-library-data/main/covers/4.jpg",
           "pdfUrl": "https://raw.githubusercontent.com/hh047871-pixel/electronic-library-data/main/books/aqeedah_001.pdf",
           "createdAt": "2026-02-19T08:15:00Z",
           "isFeatured": true
@@ -57,7 +57,7 @@
           "description": "شرح مبسط لمسائل الإيمان وأثرها في حياة المسلم.",
           "pages": 165,
           "price": 9000,
-          "coverUrl": "https://raw.githubusercontent.com/hh047871-pixel/electronic-library-data/main/covers/aqeedah_002.jpg",
+          "coverUrl": "https://raw.githubusercontent.com/hh047871-pixel/electronic-library-data/main/covers/4.jpg",
           "pdfUrl": "https://raw.githubusercontent.com/hh047871-pixel/electronic-library-data/main/books/aqeedah_002.pdf",
           "createdAt": "2026-02-17T11:00:00Z",
           "isFeatured": false
@@ -76,7 +76,7 @@
           "description": "عرض لأهم الأحداث التاريخية بأسلوب مختصر وممتع.",
           "pages": 300,
           "price": 15000,
-          "coverUrl": "https://raw.githubusercontent.com/hh047871-pixel/electronic-library-data/main/covers/history_001.jpg",
+          "coverUrl": "https://raw.githubusercontent.com/hh047871-pixel/electronic-library-data/main/covers/4.jpg",
           "pdfUrl": "https://raw.githubusercontent.com/hh047871-pixel/electronic-library-data/main/books/history_001.pdf",
           "createdAt": "2026-02-21T13:45:00Z",
           "isFeatured": true
@@ -89,7 +89,7 @@
           "description": "نبذة عن حياة مجموعة من العلماء وأثرهم العلمي.",
           "pages": 190,
           "price": 10000,
-          "coverUrl": "https://raw.githubusercontent.com/hh047871-pixel/electronic-library-data/main/covers/history_002.jpg",
+          "coverUrl": "https://raw.githubusercontent.com/hh047871-pixel/electronic-library-data/main/covers/4.jpg",
           "pdfUrl": "https://raw.githubusercontent.com/hh047871-pixel/electronic-library-data/main/books/history_002.pdf",
           "createdAt": "2026-02-16T07:20:00Z",
           "isFeatured": false
@@ -108,7 +108,7 @@
           "description": "قصص مبسطة وجميلة للأطفال مع أسلوب سهل ومفيد.",
           "pages": 95,
           "price": 7000,
-          "coverUrl": "https://raw.githubusercontent.com/hh047871-pixel/electronic-library-data/main/covers/kids_001.jpg",
+          "coverUrl": "https://raw.githubusercontent.com/hh047871-pixel/electronic-library-data/main/covers/4.jpg",
           "pdfUrl": "https://raw.githubusercontent.com/hh047871-pixel/electronic-library-data/main/books/kids_001.pdf",
           "createdAt": "2026-02-18T15:10:00Z",
           "isFeatured": true
@@ -121,7 +121,7 @@
           "description": "كتاب تربوي للأطفال يعلّم السلوكيات والآداب الإسلامية.",
           "pages": 80,
           "price": 6000,
-          "coverUrl": "https://raw.githubusercontent.com/hh047871-pixel/electronic-library-data/main/covers/kids_002.jpg",
+          "coverUrl": "https://raw.githubusercontent.com/hh047871-pixel/electronic-library-data/main/covers/4.jpg",
           "pdfUrl": "https://raw.githubusercontent.com/hh047871-pixel/electronic-library-data/main/books/kids_002.pdf",
           "createdAt": "2026-02-15T09:40:00Z",
           "isFeatured": false
