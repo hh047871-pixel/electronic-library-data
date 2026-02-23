@@ -9,7 +9,7 @@
           "title": "منهاج الصالحين",
           "author": "السيد علي الحسيني السيستاني",
           "presenter": "دار الإسلام",
-          "description": "كتاب مبسط يشرح أحكام الطهارة والصلاة بأسلوب واضح وميسر ويمكن الرؤيا فيصحخنكختنيسكخشتللاخكيبستكخلاتحخهقتحخهفلاتقخحتخقتفخخستقثسهاحتقخهتلخث.",
+          "description": "كتاب مبسط يشرح أحكام الطهارة والصلاة بأسلوب واضح وميسر ويمكن الرؤيا .",
           "pages": 455,
             "partsCount": 2,
 
@@ -30,7 +30,7 @@
 
           "price": 12000,
           "coverUrl": "https://raw.githubusercontent.com/hh047871-pixel/electronic-library-data/main/covers/4.jpg",
-          "pdfUrl": "https://raw.githubusercontent.com/hh047871-pixel/electronic-library-data/main/books/fiqh_002.pdf",
+          "pdfUrl": "https://raw.githubusercontent.com/hh047871-pixel/electronic-library-data/main/books/1.pdf",
           "createdAt": "2026-02-22T10:30:00Z",
           "isFeatured": false
         }
@@ -51,7 +51,7 @@
 
           "price": 11000,
           "coverUrl": "https://raw.githubusercontent.com/hh047871-pixel/electronic-library-data/main/covers/4.jpg",
-          "pdfUrl": "https://raw.githubusercontent.com/hh047871-pixel/electronic-library-data/main/books/aqeedah_001.pdf",
+          "pdfUrl": "https://raw.githubusercontent.com/hh047871-pixel/electronic-library-data/main/books/1.pdf",
           "createdAt": "2026-02-19T08:15:00Z",
           "isFeatured": true
         },
@@ -66,7 +66,7 @@
 
           "price": 9000,
           "coverUrl": "https://raw.githubusercontent.com/hh047871-pixel/electronic-library-data/main/covers/4.jpg",
-          "pdfUrl": "https://raw.githubusercontent.com/hh047871-pixel/electronic-library-data/main/books/aqeedah_002.pdf",
+          "pdfUrl": "https://raw.githubusercontent.com/hh047871-pixel/electronic-library-data/main/books/1.pdf",
           "createdAt": "2026-02-17T11:00:00Z",
           "isFeatured": false
         }
