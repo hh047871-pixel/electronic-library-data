@@ -43,28 +43,7 @@
     "endAt": "2026-03-03T18:30:00Z",
     "isActive": true
   },
-  {
-    "id": "ann_005",
-    "title": "ملتقى القرّاء الشهري",
-    "description": "ملتقى تفاعلي لعرض ترشيحات الكتب ومناقشة أحدث الإصدارات المتوفرة في المكتبة.",
-    "imageUrl": "https://raw.githubusercontent.com/hh047871-pixel/electronic-library-data/main/banners/4.jpg",
-    "type": "حدث",
-    "link": "https://example.com/event-005",
-    "createdAt": "2026-02-19T11:00:00Z",
-    "endAt": "2026-03-10T21:00:00Z",
-    "isActive": true
-  },
-  {
-    "id": "ann_006",
-    "title": "معرض المخطوطات الرقمية",
-    "description": "عرض خاص لمجموعة مختارة من المخطوطات والكتب التراثية بصيغة رقمية.",
-    "imageUrl": "https://raw.githubusercontent.com/hh047871-pixel/electronic-library-data/main/banners/4.jpg",
-    "type": "حدث",
-    "link": "https://example.com/event-006",
-    "createdAt": "2026-02-18T13:20:00Z",
-    "endAt": "2026-03-08T23:00:00Z",
-    "isActive": true
-  },
+  
   {
     "id": "offer_001",
     "title": "عرض نهاية الأسبوع",
