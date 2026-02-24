@@ -3,6 +3,7 @@
     {
       "id": "fiqh",
       "name": "اصدارات دار الاسلام",
+      "logoUrl": "https://raw.githubusercontent.com/hh047871-pixel/electronic-library-data/main/covers/4.jpg",
       "books": [
         {
           "id": "fiqh_001",
@@ -39,6 +40,7 @@
     {
       "id": "aqeedah",
       "name": "جامعة الامام الصادق(ع)",
+      "logoUrl": "https://raw.githubusercontent.com/hh047871-pixel/electronic-library-data/main/covers/4.jpg",
       "books": [
         {
           "id": "aqeedah_001",
