@@ -69,7 +69,7 @@
           "presenter": "",
           "description": "مدخل واضح لأهم مسائل العقيدة مع تبسيط للمفاهيم الأساسية.",
           "pages": 210,
-          "partsCount": 3,
+          "partsCount": 1,
           "price": 11000,
           "coverUrl": "https://raw.githubusercontent.com/hh047871-pixel/electronic-library-data/main/covers/4.jpg",
           "parts": [
@@ -78,16 +78,6 @@
               "title": "الجزء 1",
               "pdfUrl": "https://raw.githubusercontent.com/hh047871-pixel/electronic-library-data/main/books/1.pdf"
             },
-            {
-              "partNumber": 2,
-              "title": "الجزء 2",
-              "pdfUrl": "https://raw.githubusercontent.com/hh047871-pixel/electronic-library-data/main/books/5.pdf"
-            },
-            {
-              "partNumber": 3,
-              "title": "الجزء 3",
-              "pdfUrl": "https://raw.githubusercontent.com/hh047871-pixel/electronic-library-data/main/books/6.pdf"
-            }
           ],
           "createdAt": "2026-02-19T08:15:00Z",
           "isFeatured": true
