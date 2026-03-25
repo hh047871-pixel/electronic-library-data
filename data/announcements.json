@@ -2,7 +2,7 @@
  
   {
     "id": "ann_001",
-    "title": "مهرجان القراءة السنوي",
+    "title": "",
     "description": "انطلاق فعاليات مهرجان القراءة مع إصدارات جديدة وبرامج متنوعة مع احدث التفاصيل الصغيرة المهخمة التي يتضح فيها اهم الامور التي تخص المكتية واحدث اصداراتها .",
     "imageUrl": "https://raw.githubusercontent.com/hh047871-pixel/electronic-library-data/main/banners/4.jpg",
     "type": "حدث",
@@ -11,6 +11,18 @@
     "startAt": "2026-02-24T12:00:00+03:00",
     "endAt": "2026-02-25T12:01:00+03:00",
     "isActive": true
-  }
+  },
+ {
+  "id": "ann_001",
+  "title": "عرض خاص على الإصدارات",
+  "description": "استمتعوا بعرض خاص على مجموعة من الإصدارات المختارة لفترة محدودة، مع الإعلان عن أبرز الكتب الجديدة المتوفرة في المكتبة.",
+  "imageUrl": "https://raw.githubusercontent.com/hh047871-pixel/electronic-library-data/main/banners/4.jpg",
+  "type": "عرض",
+  "link": "https://example.com/event-001",
+  "createdAt": "2026-02-22T11:00:00+03:00",
+  "startAt": "2026-02-24T12:00:00+03:00",
+  "endAt": "2026-02-25T12:01:00+03:00",
+  "isActive": true
+}
   
 ]
