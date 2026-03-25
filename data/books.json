@@ -29,7 +29,7 @@
             }
 
           ],
-          "createdAt": "5000000-02-22T09:00:00Z",
+        "createdAt": "2026-02-22T13:30:00+03:00",
           "isFeatured": true
         },
         {
@@ -55,7 +55,7 @@
               "pdfUrl": "https://raw.githubusercontent.com/hh047871-pixel/electronic-library-data/main/books/4.pdf"
             }
           ],
-          "createdAt": "2026-02-22T10:30:00Z",
+          "createdAt": "2030-02-22T13:30:00+03:00",
           "isFeatured": false
         }
       ]
@@ -82,7 +82,7 @@
               "pdfUrl": "https://raw.githubusercontent.com/hh047871-pixel/electronic-library-data/main/books/1.pdf"
             }
           ],
-          "createdAt": "60000000-02-19T08:15:00Z",
+          "createdAt": "2027-02-22T13:30:00+03:00",
           "isFeatured": true
         }
   
