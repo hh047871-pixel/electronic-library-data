@@ -6,7 +6,7 @@
     "type": "عرض",
     "startAt": "2026-01-20T09:00:00+03:00",
     "endAt": "2026-02-10T23:59:00+03:00",
-    "isActive": true
+    "isActive": false
   },
   {
     "id": "ann_002",
