@@ -3,9 +3,9 @@
     "id": 1,
     "name": "دار الإسلام",
     "logoUrl": "https://raw.githubusercontent.com/USERNAME/REPO/main/logos/dar_alislam.png",
-    "baseRawDataUrl": "https://raw.githubusercontent.com/USERNAME/electronic-library-data/main/data",
+    "baseRawDataUrl": "https://raw.githubusercontent.com/hh047871-pixel/electronic-library-data/main//data",
     "address": "بغداد - الكاظمية",
-    "whatsappNumber": "9647XXXXXXXXX"
+    "whatsappNumber": "9647519739374"
   },
   {
     "id": 2,
@@ -13,6 +13,6 @@
     "logoUrl": "https://raw.githubusercontent.com/USERNAME/REPO/main/logos/library2.png",
     "baseRawDataUrl": "https://raw.githubusercontent.com/USERNAME/library2-data/main/data",
     "address": "بغداد - المنصور",
-    "whatsappNumber": "9647XXXXXXXXX"
+    "whatsappNumber": "9647519739374"
   }
 ]
