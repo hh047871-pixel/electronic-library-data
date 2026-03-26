@@ -1,0 +1,18 @@
+[
+  {
+    "id": 1,
+    "name": "دار الإسلام",
+    "logoUrl": "https://raw.githubusercontent.com/USERNAME/REPO/main/logos/dar_alislam.png",
+    "baseRawDataUrl": "https://raw.githubusercontent.com/USERNAME/electronic-library-data/main/data",
+    "address": "بغداد - الكاظمية",
+    "whatsappNumber": "9647XXXXXXXXX"
+  },
+  {
+    "id": 2,
+    "name": "المكتبة الثانية",
+    "logoUrl": "https://raw.githubusercontent.com/USERNAME/REPO/main/logos/library2.png",
+    "baseRawDataUrl": "https://raw.githubusercontent.com/USERNAME/library2-data/main/data",
+    "address": "بغداد - المنصور",
+    "whatsappNumber": "9647XXXXXXXXX"
+  }
+]
