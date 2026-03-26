@@ -3,16 +3,18 @@
     "id": 1,
     "name": "دار الإسلام",
     "logoUrl": "https://raw.githubusercontent.com/hh047871-pixel/electronic-library-data/main/covers/section1_logo.png",
-    "baseRawDataUrl": "https://raw.githubusercontent.com/hh047871-pixel/electronic-library-data/main//data",
+    "baseRawDataUrl": "https://raw.githubusercontent.com/hh047871-pixel/electronic-library-data/main/data",
     "address": "بغداد - الكاظمية",
-    "whatsappNumber": "9647519739374"
+    "whatsappNumber": "9647519739374",
+    "isVisible": true
   },
   {
     "id": 2,
     "name": "المكتبة الثانية",
     "logoUrl": "https://raw.githubusercontent.com/hh047871-pixel/electronic-library-data/main/covers/س.jpg",
-    "baseRawDataUrl": "https://raw.githubusercontent.com/USERNAME/library2-data/main/data",
+    "baseRawDataUrl": "https://raw.githubusercontent.com/darislam200-collab/electronic-library-data/main/data",
     "address": "بغداد - المنصور",
-    "whatsappNumber": "9647519739374"
+    "whatsappNumber": "9647519739374",
+    "isVisible": false
   }
 ]
